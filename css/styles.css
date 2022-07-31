@@ -1,0 +1,116 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+    font-size: 18px;
+}
+
+h1 {
+    margin: 3rem auto 2.3rem;
+    font-size: 32px;
+}
+
+h2,.clipboard-app-title {
+    font-size: 28px;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+.container,.download-btn {
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    position: relative;
+    margin-top: 3rem;
+    left: 43%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+button {
+    padding: 1rem 4rem;
+    border-radius: 25px;
+}
+
+.ios,.ios-lower {
+    margin-bottom: 1.5rem;
+    background-color: #26BBA4;
+}
+
+.mac,.mac-lower {
+    background-color: #6174FF;
+}
+
+.download-btn button, .clipboard-app-div button {
+    color: #fff;
+}
+
+.download-btn {
+    margin: 2rem auto 10rem auto;
+}
+
+.snippets-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 43%;
+}
+
+.snippets-div h2,.snippets-div p {
+    margin-bottom: 3rem;
+}
+
+.feature-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 11rem;
+}
+
+.computer img {
+    width: 160%;
+    position: relative;
+    left: 1.3em;
+}
+
+.search,.sync,.history {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    margin-top: 4em;
+    left: 36vw;
+}
+
+.search-title,.sync-title,.history-title {
+    margin-bottom: 1rem;
+}
+
+.clipboard {
+    position: relative;
+    left: 8rem;
+}
+
+.clipboard-title, .clipboard-para {
+    margin-bottom: 3rem;
+}
+
+.devices img {
+    margin-top: 2em;
+    width: 165%;
+}
