@@ -213,8 +213,6 @@ button {
 
 footer .logo-footer {
     width: 20%;
-    position: relative;
-    left: 40%;
     margin-bottom: 4rem;
 }
 
@@ -254,5 +252,85 @@ a:last-of-type {
         display: initial;
         position: absolute;
         top: 0;
+    }
+    .download-btn {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .ios {
+        position: relative;
+        top: 1em;
+        margin-right: 2rem;
+    }
+    .title-text {
+        width: 40%;
+    }
+    .snippet-para {
+        width: 42%;
+    }
+    .feature-section {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .computer img {
+        width: 110%;
+        position: relative;
+        right: 2.4rem;
+        top: 3rem;
+    }
+    .clipboard-para {
+        width: 45%;
+    }
+    .clipboard,.supercharge,.clipboard-app-div {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .features-list,.companies {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+    .clipboard-app-para {
+        width: 45%;
+    }
+    .ios-lower {
+        margin-right: 1em;
+    }
+    footer .logo-footer {
+        width: 5%;
+        position: relative;
+        right: 22em;
+        top: 6.2em;
+    }
+    footer {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+    }
+    .links {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+    .links a {
+        margin-right: 3rem;
+    }
+    .install {
+        position: relative;
+        top: 0.8em;
+    }
+    .social {
+        position: relative;
+        top: 3.3em;
+        left: 11em;
     }
 }
