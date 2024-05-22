@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Code Repo](https://github.com/DarkPhoenixNinja92/Clipboard-Landing-Page)
-- Live Site URL: [Live Site URL](https://darkphoenixninja92.github.io/Clipboard-Landing-Page/)
+- Solution URL: [GitHub Code Repo](https://github.com/ShaunPour/Clipboard-Landing-Page)
+- Live Site URL: [Live Site URL](https://shaunpour.github.io/Clipboard-Landing-Page/)
 
 ### Built with
 
@@ -39,4 +39,4 @@ Users should be able to:
 
 - Website - [Shaun Pour](https://www.shaunpourdev.com)
 - Frontend Mentor - [@DarkPhoenixNinja92](https://www.frontendmentor.io/profile/DarkPhoenixNinja92)
-- GitHub - [DarkPhoenixNinja92](https://www.github.com/DarkPhoenixNinja92)
+- GitHub - [ShaunPour](https://www.github.com/ShaunPour)
